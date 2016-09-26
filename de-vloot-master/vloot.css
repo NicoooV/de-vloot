@@ -1,0 +1,65 @@
+div.titel{
+ background-image: url("header.jpg");
+ width:  600px;
+ height: 250px;
+ margin-left: auto;
+ margin-right: auto;
+}
+ul{
+ list-style-type: none;
+ margin: 0px;
+ padding: 0px;
+ overflow: hidden;
+}
+li {
+    float: left;
+    color: white;
+    padding: 10px;
+    margin-top: 150px;
+}
+
+li  {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+div.text{
+ width: 600px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 0px;
+ background-color: white;
+}
+
+body{
+
+ background-image: url("bg.png");
+ background-repeat: repeat-x;
+}
+
+div.text{
+margin-left: auto;
+}
+p.top {
+  margin-top: -33px;
+}
+img.top-left{
+float: left;
+margin-right: 15px;
+margin-bottom: 15px;
+}
+a{
+	color: white;
+}
+h2{
+	margin-top: 0;
+}
+img.top-right{
+	float: right;
+
+}
+
+h2.h22{
+	padding-top: 10px;
+}
